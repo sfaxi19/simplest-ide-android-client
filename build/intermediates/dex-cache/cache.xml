@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_cfa6f00a413216fe0688410f917a409ca40c5568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_c66f3e8d6c836819728f73f5553c5967d25b79d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_d70ee79e5e483f66cb9061218f47c791e7e9ac81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_42b8084decf1254821a95644ec8b981c6dd6ac16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_cfa6f00a413216fe0688410f917a409ca40c5568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_c66f3e8d6c836819728f73f5553c5967d25b79d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_42b8084decf1254821a95644ec8b981c6dd6ac16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_87cf1a032e6e78cea2c8de63b775dc6de3555912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_129d8b011c58c14f524f022426950dff4cba72b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_8232187f7979ac88e1c35d29889577d88709eb41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3122e0f2566132791639e7361229f1925578bebd">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_441caa3c4ec1b27437f9fcf8c2430feb1d90a557/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_87cf1a032e6e78cea2c8de63b775dc6de3555912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_129d8b011c58c14f524f022426950dff4cba72b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_968d28af3bf70d26b088764b023e7f8553db11f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_7c3e95ca2e6f9ecf3834b7aa788d339c62fc8753.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_7c3e95ca2e6f9ecf3834b7aa788d339c62fc8753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_968d28af3bf70d26b088764b023e7f8553db11f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_e325b86a5d31f5f616a7d65d0ef2abcb057b308e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_d70ee79e5e483f66cb9061218f47c791e7e9ac81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f8d0792a4836597f32d70a2299eedc50e99a948e">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_57795b7dfa39e7548f014be38341eda6e134ae71/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_8232187f7979ac88e1c35d29889577d88709eb41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/sfaxi19/Android/AndroidStudioProjects/SimplestIDEv2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_e325b86a5d31f5f616a7d65d0ef2abcb057b308e.jar" />
+    </item>
+
+</items>

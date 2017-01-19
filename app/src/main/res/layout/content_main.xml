@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.sfaxi19.simplestidev2.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:background="@color/main_color">
+
+
+
+        <EditText
+            android:id="@+id/editText_code"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:background="@color/background_code"
+            android:scrollbars = "vertical"
+            android:gravity="top"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView_resize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="-----"
+                    android:textColor="@color/background_code"
+                    android:textStyle="normal|bold"
+                    android:textAlignment="center"
+                    android:background="@color/main_color" />
+
+                <EditText
+                    android:id="@+id/textView_console"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:inputType="textMultiLine"
+                    android:background="@color/background_code"
+                    android:scrollbars = "vertical"
+                    android:gravity="top"
+                    android:textColor="@android:color/white"
+                    android:cursorVisible="false"
+                    android:editable="false"
+                    android:paddingRight="5dp"
+                    android:paddingLeft="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp" />
+
+            </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
